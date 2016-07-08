@@ -1,0 +1,17 @@
+{
+  "name": "kata2",
+  "version": "1.0.0",
+  "description": "the second ulabox coding kata",
+  "main": "kata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Juanma & Jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1"
+  }
+}
